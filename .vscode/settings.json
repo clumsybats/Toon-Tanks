@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"C:/Users/Rob/Desktop/ToonTanks/.vscode": true,
+		"C:/Users/Rob/Desktop/ToonTanks/Content": true,
+		"C:/Users/Rob/Desktop/ToonTanks/DerivedDataCache": true,
+		"C:/Users/Rob/Desktop/ToonTanks/Intermediate": true,
+		"C:/Users/Rob/Desktop/ToonTanks/Saved": true
+	}
+}
